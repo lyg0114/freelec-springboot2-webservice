@@ -1,9 +1,4 @@
 # Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
-/build/classes/java/test/
-
-/application-oauth.properties/
-!/.gitignore
-!/.gitignore
+.gradle
+.idea
+build
