@@ -4,4 +4,6 @@
 /build/classes/java/main/
 /build/classes/java/test/
 
-application-oauth.properties
+/application-oauth.properties/
+!/.gitignore
+!/.gitignore
